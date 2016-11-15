@@ -1,0 +1,11 @@
+h1{
+	color: green;
+}
+h2{
+	color: blue;
+}
+body{
+	background-color: black;
+	border-left-style: dotted;
+	border-color: white;
+}
