@@ -5,6 +5,7 @@ $(document).ready(function(){
 	$('h2').on("click", function(){
 		alert("Thanks for visiting my page!");
 	});
+	$('h3').css("color", "white");
 
 
 });
